@@ -97,13 +97,13 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page02 img:nth-child(4) {
-    width: 40%;
-    height: 26%;
+
+    width: 44%;
+    height: 25%;
     top: 20%;
     left: 30%;
     -webkit-animation: zoomIn 1s linear .8s both;
     animation: zoomIn 1s linear .8s both;
-
 }
 
 .page02 .text {
@@ -112,7 +112,7 @@ html, body, .swiper-container, .swiper-slide {
     height: auto;
     text-align: center;
     left: 5.3125%;
-    font-size: 0.23rem;
+    font-size: 0.27rem;
     line-height: 0.6rem;
     top: 10.6%;
     color: #fff;
